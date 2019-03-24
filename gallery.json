@@ -1,0 +1,33 @@
+{
+  "montag": [
+    {
+      "src": "img/gallery/img1.png"
+    },
+    {
+      "src": "img/gallery/img2.png"
+    },
+    {
+      "src": "img/gallery/img2.png"
+    },
+    {
+      "src": "img/gallery/img2.png"
+    },
+    {
+      "src": "img/gallery/img2.png"
+    },
+    {
+      "src": "img/gallery/img2.png"
+    },
+    {
+      "src": "img/gallery/img2.png"
+    },
+    {
+      "src": "img/gallery/img2.png"
+    }
+  ],
+  "retouch": [
+    {
+      "src": "img/gallery/img1.png"
+    }
+  ]
+}
